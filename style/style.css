@@ -6,7 +6,6 @@
 }
 body{
   background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(1, 60, 25) 100%);
-  background-attachment: fixed;
   padding: 20px;
   
 }
@@ -102,7 +101,6 @@ video {
   
   background: linear-gradient(90deg, rgb(1, 24, 29) 0%, rgb(3, 82, 65) 100%);
   border-radius: 30px;
-  background-attachment: fixed;
   
 }
 #h06{
